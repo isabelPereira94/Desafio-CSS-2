@@ -5,4 +5,4 @@
 <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=purple">
 <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=purple">
 
-<img src= "">
+<img src= "https://github.com/isabelPereira94/Desafio-CSS-2/blob/main/Design%20sem%20nome.jpg?raw=true">
